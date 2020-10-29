@@ -1,0 +1,17 @@
+#plants {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#button {
+    display: flex;
+    justify-content: center;
+
+}
+#wrapper {
+    padding: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
